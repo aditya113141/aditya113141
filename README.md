@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif' width='300" '>
 
-I am Adityakumar Sinha. People mostly ignore my first name and call me just 'Sinha'.
+I am Adityakumar Sinha. People mostly ignore my first name and call me 'Sinha'.
 
 Quick learner | Lusting for new technologies | Great Team Player | Want to collaborate ? Let's get in touch. 
 
