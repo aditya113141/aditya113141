@@ -1,7 +1,7 @@
 ### Namstey 👋
 <h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
+<img align='right' src='https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif' width='300" '>
 
 
 Here are some ideas to get you started:
