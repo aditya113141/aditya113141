@@ -3,7 +3,7 @@
 
 <img align='right' src='https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif' width='300" '>
 
-
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on many things :-P
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
