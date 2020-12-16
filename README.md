@@ -10,7 +10,7 @@ Quick learner | Lusting for new technologies | Great Team Player | Want to colla
  
  🌱 I’m currently learning ML.
  
- 👯 I’m looking to collaborate on JS and Python Projects
+ 👯 I’m looking to collaborate on ML
  
  💬 Ask me about anything and everything.
  
