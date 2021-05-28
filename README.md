@@ -8,10 +8,8 @@ Quick learner | Lusting for new technologies | Great Team Player | Want to colla
 
  🔭 I’m currently working on many things :-P
  
- 🌱 I’m currently learning ML.
- 
- 👯 I’m looking to collaborate on ML
- 
+ 🌱 I’m currently doing CP.
+  
  💬 Ask me about anything and everything.
  
  📫 How to reach me: [Aditya Sinha](https://www.linkedin.com/in/adityakumar-sinha-485a40193/)
