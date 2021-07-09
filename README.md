@@ -4,7 +4,7 @@
 
 I am Adityakumar Sinha. People mostly ignore my first name and call me 'Sinha'.
 
-Quick learner | Lusting for new technologies | Great Team Player | Want to collaborate ? Let's get in touch. 
+Quick learner | Great Team Player | Want to collaborate ? Let's get in touch. 
 
  🔭 I’m currently working on many things :-P
  
