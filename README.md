@@ -6,9 +6,9 @@ I am Adityakumar Sinha. People mostly ignore my first name and call me 'Sinha'.
 
 Quick learner | Great Team Player | Want to collaborate ? Let's get in touch. 
 
- 🔭 I’m currently working on many things :-P
+ 🔭 I’m currently preparing for internships
+  <!--- 🌱 I’m currently doing CP. --->
  
- 🌱 I’m currently doing CP.
   
  💬 Ask me about anything and everything.
  
