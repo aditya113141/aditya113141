@@ -10,7 +10,7 @@ Quick learner | Great Team Player | Want to collaborate ? Let's get in touch.
   <!--- 🌱 I’m currently doing CP. --->
  
   
- 💬 Ask me about Web Dev, DS Algo, ML, Economics, Maths 
+ 💬 Ask me about Web Dev, DS Algo, ML, Economics, Maths, MCU, Chetan Bhagat, 
  
  📫 How to reach me: [Aditya Sinha](https://www.linkedin.com/in/adityakumar-sinha-485a40193/)
  
