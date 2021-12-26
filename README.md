@@ -6,11 +6,11 @@ I am Adityakumar Sinha. People mostly ignore my first name and call me 'Sinha'.
 
 Quick learner | Great Team Player | Want to collaborate ? Let's get in touch. 
 
- 🔭 I’m currently managing my coursework
+ 🔭 I’m currently trying out some crazy stuff
   <!--- 🌱 I’m currently doing CP. --->
  
   
- 💬 Ask me about Web Dev, DS Algo, ML, Economics, Maths, MCU, Chetan Bhagat, 
+ 💬 Ask me about Web Dev, DS Algo, ML, Economics, Maths, MCU, Chetan Bhagat 
  
  📫 How to reach me: [Aditya Sinha](https://www.linkedin.com/in/adityakumar-sinha-485a40193/)
  
