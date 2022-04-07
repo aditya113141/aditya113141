@@ -12,7 +12,7 @@ Quick learner | Great Team Player | Want to collaborate ? Let's get in touch.
   
  💬 Ask me about Web Dev, DS Algo, ML, Economics, Maths, MCU, Chetan Bhagat 
  
- 📫 How to reach me: [Aditya Sinha](https://www.linkedin.com/in/adityakumar-sinha-485a40193/)
+ 📫 How to reach me: [Aditya Sinha](https://www.linkedin.com/in/aditya113141/)
  
  ⚡ Fun fact: I have spent a complete day debugging a code which only had a semi-colon missing. :-P
 
