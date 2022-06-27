@@ -1,7 +1,7 @@
 <h2> नमस्ते, coders <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-I am Adityakumar Sinha. People mostly ignore my first name and call me 'Sinha'.
+I am Aditya Kumar Sinha. 
 
 Quick learner | Great Team Player | Want to collaborate ? Let's get in touch. 
 
